@@ -17,15 +17,10 @@
         {
             "name": "Headphones",
             "price": 2000,
-            "stock": 15,
+            "stock": 13,
             "delivery": "1 day",
             "specs": "Wireless"
         }
     ],
-    "cart": [
-        {
-            "product": "Laptop",
-            "qty": 2
-        }
-    ]
+    "cart": []
 }
